@@ -6,14 +6,14 @@
 
 
 ##  Data Engineering
-*Focus: ETL Pipelines, Cloud Infrastructure, SQL optimization*
+*Focus: ETL Pipelines, Cloud Infrastructure, SQL*
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
 | [**Data-Engineering-Real-Estate-Capstone**](https://github.com/Pharaohleft/North-Development-Data-Engineering-Capstone-) | MYSQL, Python, Excel  | Apartment Data Database |
 | [**Uber-Analytics-Data-Pipeline**](https://github.com/Pharaohleft/uber-analytics-data-pipeline) | GCS, MAGE Ai, Big Query | Analytics Data Pipeline |
 | [**Flight-OPS-Data-Analytics-Platform**](https://github.com/Pharaohleft/Flight-OPS-Data-Analytics-Platform) | Airflow, OpenSky API, Snowflake | Flight Data Analytics |
-| [**Project Name 2**](LINK_TO_REPO) | Spark, Kafka | Real-time streaming data... |
-| [**Project Name 2**](LINK_TO_REPO) | Spark, Kafka | Real-time streaming data... |
+| [**Real-Time Banking Data Analytics Engineering**](https://github.com/Pharaohleft/Banking-Analytics-ETL) |  | Real-time Banking Data Analytics |
+| [**Healthcare-Azure-Data-Analytics-Engineering**](https://github.com/Pharaohleft/Healthcare-Azure-Data-Analytics-Engineering) | PySpark, Databricks | HealthCare Data Analytics Engineering |
 
 ##  Data Analytics
 *Focus: SQL queries, Excel, EDA, Insights*
