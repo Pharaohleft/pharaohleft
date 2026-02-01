@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Austin 👋
 
 Welcome to my data portfolio. Here are my projects categorized by domain:
 
