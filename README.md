@@ -19,9 +19,11 @@
 *Focus: SQL queries, Excel, EDA, Insights*
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [**Project Name 1**](LINK_TO_REPO) | SQL, Excel | Analysis of customer churn... |
-| [**Project Name 2**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
-
+| [**NBA-Roster-Optimization-Analysis**](LINK_TO_REPO) | SQL, Excel | Analysis of customer churn... |
+| [**E-Commerce-Churn-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
+| [**Bank-Loan-Health-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
+| [**Store-Geographical-Growth-Analysis**](LINK_TO_REPO) | Python (Pandas) | Exploratory analysis of sales... |
+  
 ##  Power BI & Visualization
 *Focus: DAX, Data Modeling, Dashboard Design*
 | Project Name | Tech Stack | Description |
@@ -33,8 +35,8 @@
 *Focus: Predictive Modeling, Scikit-Learn, TensorFlow*
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [**Project Name 1**](LINK_TO_REPO) | Python, Scikit-Learn | Predicting housing prices... |
-| [**Project Name 2**](LINK_TO_REPO) | PyTorch | Image classification model... |
+| [**NBA-Roster-Optimization-Using-ML**](LINK_TO_REPO) | Python, Scikit-Learn | Predicting housing prices... |
+| [**E-Commerce-Customer-Behaviour-Analysis-Using-ML**](LINK_TO_REPO) | PyTorch | Image classification model... |
 
 Contact - austinabraham49@icloud.com
 Linkedin - https://www.linkedin.com/in/austinabrahamm/
