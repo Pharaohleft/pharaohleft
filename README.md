@@ -25,8 +25,6 @@
 | [**E-Commerce-Churn-Analysis**](LINK_TO_REPO) | Python (Pandas) |
 | [**Bank-Loan-Health-Analysis**](LINK_TO_REPO) | Python (Pandas) |
 | [**Store-Geographical-Growth-Analysis**](LINK_TO_REPO) | Python (Pandas) |
-
-
 | [**Meta-Marketing-Data-Analysis**](LINK_TO_REPO) | Python (Pandas) |
 | [**Healthcare-ER-Operations-Analysis**](LINK_TO_REPO) | Python (Pandas) |
 
