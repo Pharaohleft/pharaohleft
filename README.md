@@ -52,3 +52,4 @@
 
 - Contact - austinabraham49@icloud.com 
 - Linkedin - https://www.linkedin.com/in/austinabrahamm/
+- Web Apps - https://huggingface.co/pharaohleft/spaces
