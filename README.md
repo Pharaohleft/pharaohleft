@@ -50,5 +50,5 @@
 | [**NBA-Roster-Optimization-Using-ML**](LINK_TO_REPO) | Python, Scikit-Learn |
 | [**E-Commerce-Customer-Behaviour-Analysis-Using-ML**](LINK_TO_REPO) | PyTorch |
 
-Contact - austinabraham49@icloud.com 
-Linkedin - https://www.linkedin.com/in/austinabrahamm/
+- Contact - austinabraham49@icloud.com 
+- Linkedin - https://www.linkedin.com/in/austinabrahamm/
