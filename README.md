@@ -22,7 +22,7 @@
 | Project Name | Tech Stack |
 | :--- | :--- |
 | [**NBA-Roster-Optimization-Analysis**](https://github.com/Pharaohleft/NBA-Roster-Optimization-Analysis) | SQL, Excel, Python|
-| [**Customer-Value-Segmentation-Analysis**](LINK_TO_REPO) | Python (Pandas) |
+| [**Customer-Churn-Analysis**]([LINK_TO_REPO](https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis)) | Python (Pandas) |
 | [**Bank-Loan-Health-Analysis**](LINK_TO_REPO) | Python (Pandas) |
 | [**Store-Geographical-Growth-Analysis**](LINK_TO_REPO) | Python (Pandas) |
 | [**Meta-Marketing-Data-Analysis**](LINK_TO_REPO) | Python (Pandas) |
