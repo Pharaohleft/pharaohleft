@@ -6,7 +6,6 @@
 - - -
 
 ## Data Engineering
-*ETL Pipelines, Cloud Infrastructure, SQL*
 
 | Project Name | Tech Stack |
 | :--- | :--- |
@@ -18,7 +17,6 @@
 <br>
 
 ## Data Analytics
-*SQL queries, Excel, EDA, Insights*
 
 | Project Name | Tech Stack |
 | :--- | :--- |
@@ -37,7 +35,6 @@ https://pharaohleft.github.io
 <br>
 
 ## Data Science & ML
-*Predictive Modeling, Scikit-Learn, TensorFlow*
 
 | Project Name | Tech Stack |
 | :--- | :--- |
