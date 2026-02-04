@@ -31,14 +31,7 @@
 <br>
 
 ## Power BI & Visualization
-*DAX, Data Modeling, Dashboard Design*
-
-| Project Name | Tech Stack |
-| :--- | :--- |
-| [**Airline-Analysis**](LINK_TO_REPO) | Power BI, DAX |
-| [**HR-Analytics**](LINK_TO_REPO) | Power BI, Power Query |
-| [**Insurance-Risk-&-Claims**](LINK_TO_REPO) | Power BI, DAX |
-| [**Amazon-Sales-Dashboard**](LINK_TO_REPO) | Power BI, DAX |
+https://pharaohleft.github.io
 
 <br>
 
