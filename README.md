@@ -4,20 +4,23 @@ I am Austin and I am interested in all things data. I am currently working as a 
 - Check out my projects, micro-projects, skills & certificates.
 - austinabraham49@icloud.com 
 - https://www.linkedin.com/in/austinabrahamm/
-https://www.instagram.com/boothepharaoh/
+
 <div align="center">
 
   <a href="mailto:austinabraham49@icloud.com">
-    <img src="https://cdn.simpleicons.org/gmail/000000" height="40" alt="Email" style="margin: 0 10px;" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/mail.png" height="40" alt="Email" style="margin: 0 10px;" />
   </a>
+
   <a href="https://github.com/Pharaohleft">
-    <img src="https://cdn.simpleicons.org/github/000000" height="40" alt="GitHub" style="margin: 0 10px;" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" alt="GitHub" style="margin: 0 10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/austinabrahamm">
-    <img src="https://cdn.simpleicons.org/linkedin/000000" height="40" alt="LinkedIn" style="margin: 0 10px;" />
+
+  <a href="https://www.linkedin.com/in/austinabrahamm/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="40" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
-  <a href="https://instagram.com/boothepharaoh">
-    <img src="https://cdn.simpleicons.org/instagram/000000" height="40" alt="Instagram" style="margin: 0 10px;" />
+
+  <a href="https://www.instagram.com/boothepharaoh/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" height="40" alt="Instagram" style="margin: 0 10px;" />
   </a>
 
   <p>The best way to contact me is through email.</p>
