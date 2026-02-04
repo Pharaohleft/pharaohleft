@@ -30,7 +30,7 @@
 
 <br>
 
-## Power BI & Visualization
+## Business Intelligence 
 https://pharaohleft.github.io
 
 <br>
