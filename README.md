@@ -3,7 +3,7 @@
 I am Austin and I am interested in all things data. I am currently working as a Volunteer Data Analyst and located in Chicago, IL. In my free time, I like to read, hike, play basketball, and explore different music genres every morning (In no particular order).
 <br>
 Check out my projects, micro-projects, skills & certificates.
-
+---
 <div align="center">
 
   <a href="mailto:austinabraham49@icloud.com">
@@ -25,7 +25,7 @@ Check out my projects, micro-projects, skills & certificates.
   <p>The best way to contact me is through email.</p>
 
 </div>
-
+---
 
 ## Data Engineering
 
