@@ -1,7 +1,8 @@
 
 # Hi
  -Austin
-
+- Contact - austinabraham49@icloud.com 
+- Linkedin - https://www.linkedin.com/in/austinabrahamm/
 - - -
 
 ## Data Engineering
@@ -43,8 +44,7 @@ https://pharaohleft.github.io
 | [**NBA-Roster-Optimization-Using-ML**](LINK_TO_REPO) | Python, Scikit-Learn |
 | [**E-Commerce-Customer-Behaviour-Analysis-Using-ML**](LINK_TO_REPO) | PyTorch |
 
-- Contact - austinabraham49@icloud.com 
-- Linkedin - https://www.linkedin.com/in/austinabrahamm/
+
 
 
 - Web Apps - https://huggingface.co/pharaohleft/spaces
