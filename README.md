@@ -5,15 +5,7 @@ I am Austin and I am interested in all things data. I am currently working as a 
 - Contact - austinabraham49@icloud.com 
 - Linkedin - https://www.linkedin.com/in/austinabrahamm/
 
-  <details>
-  <summary><b>📜 Click to expand my Certificates (10)</b></summary>
-  <br> <ul>
-    <li><b>AWS Certified Solutions Architect</b> - <i>2024</i></li>
-    <li><b>Google Data Analytics</b> - <a href="YOUR_LINK_HERE">View Credential</a></li>
-    <li><b>Meta Front-End Developer</b></li>
-    <li>(Paste the rest of your certificates here...)</li>
-  </ul>
-</details>
+
 - - -
 
 ## Data Engineering
@@ -52,7 +44,15 @@ https://pharaohleft.github.io
 | [**Cost-Efficient Asset Replacement Using Unsupervised Learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-using-unsupervised-learning) | Python, Scikit-Learn |
 | [**customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/customer-lifetime-value-and-churn-modeling) | PyTorch |
 
-
+  <details>
+  <summary><b>📜 Click to expand my Certificates (10)</b></summary>
+  <br> <ul>
+    <li><b>AWS Certified Solutions Architect</b> - <i>2024</i></li>
+    <li><b>Google Data Analytics</b> - <a href="YOUR_LINK_HERE">View Credential</a></li>
+    <li><b>Meta Front-End Developer</b></li>
+    <li>(Paste )</li>
+  </ul>
+</details>
 
 
 - Web Apps - https://huggingface.co/pharaohleft/spaces
