@@ -65,7 +65,7 @@ https://pharaohleft.github.io
   <br> <ul>
     <li><b>Career Essentials in Generative AI by Microsoft and LinkedIn</b></li>
     <li><b>Generative AI Professional Certificate by Snowflake</b></li>
-    <li><b>Generative AI Professional Certificate by Microsoft</b></li>
+    <li><b>Product Management Professional Certificate by AHA!</b></li>
     <li><b>Data Engineering Professional Certificate by Snowflake</b></li>
     <li>Atlassian Agile Project Management Professional Certificate</li>
     <li>Data Science Professional Certificate by KNIME</li>
