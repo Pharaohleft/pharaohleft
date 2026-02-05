@@ -56,20 +56,17 @@ https://pharaohleft.github.io
 
 <br>
 
-## Data Science & ML
-
-| Project Name | Tech Stack |
-| :--- | :--- |
-| [**Cost-Efficient Asset Replacement Using Unsupervised Learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-using-unsupervised-learning) | Python, Scikit-Learn |
-| [**customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/customer-lifetime-value-and-churn-modeling) | PyTorch |
-
   <details>
-  <summary><b> Click to expand my Certificates (10)</b></summary>
+  <summary><b> Certificates </b></summary>
   <br> <ul>
-    <li><b>AWS Certified Solutions Architect</b> - <i>2024</i></li>
-    <li><b>Google Data Analytics</b> - <a href="YOUR_LINK_HERE">View Credential</a></li>
-    <li><b>Meta Front-End Developer</b></li>
-    <li>(Paste )</li>
+    <li><b>Career Essentials in Generative AI by Microsoft and LinkedIn</b> - <i>2024</i></li>
+    <li><b>Generative AI Professional Certificate by Snowflake</b> - <a href="YOUR_LINK_HERE">View Credential</a></li>
+    <li><b>Data Engineering Professional Certificate by Snowflake</b></li>
+    <li>Atlassian Agile Project Management Professional Certificate</li>
+    <li>Data Science Professional Certificate by KNIME</li>
+    <li>Career Essentials in Data Analysis by Microsoft and LinkedIn</li>
+    <li>CSCMP Supply Chain Foundations: Inventory Management Professional Certificate</li>
+    <li>Data Engineering Foundations Professional Certificate by Astronomer</li>
   </ul>
 </details>
 
