@@ -67,6 +67,7 @@ https://pharaohleft.github.io
     <li><b>Data Engineering Professional Certificate by Snowflake</b></li>
     <li>Atlassian Agile Project Management Professional Certificate</li>
     <li>Data Science Professional Certificate by KNIME</li>
+    <li>Six Sigma Green Belt</li>
     <li>Career Essentials in Data Analysis by Microsoft and LinkedIn</li>
     <li>CSCMP Supply Chain Foundations: Inventory Management Professional Certificate</li>
     <li>Data Engineering Foundations Professional Certificate by Astronomer</li>
