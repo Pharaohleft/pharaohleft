@@ -63,8 +63,8 @@ https://pharaohleft.github.io
   <details>
   <summary><b> Certificates </b></summary>
   <br> <ul>
-    <li><b>Career Essentials in Generative AI by Microsoft and LinkedIn</b> - <i>2024</i></li>
-    <li><b>Generative AI Professional Certificate by Snowflake</b> - <a href="YOUR_LINK_HERE">View Credential</a></li>
+    <li><b>Career Essentials in Generative AI by Microsoft and LinkedIn</b></li>
+    <li><b>Generative AI Professional Certificate by Snowflake</b></li>
     <li><b>Data Engineering Professional Certificate by Snowflake</b></li>
     <li>Atlassian Agile Project Management Professional Certificate</li>
     <li>Data Science Professional Certificate by KNIME</li>
