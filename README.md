@@ -71,4 +71,4 @@ https://pharaohleft.github.io
 </details>
 
 
-- Hosted Applications - https://huggingface.co/pharaohleft/spaces
+## Hosted Applications - https://huggingface.co/pharaohleft/spaces
