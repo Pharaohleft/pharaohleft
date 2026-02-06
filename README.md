@@ -117,7 +117,7 @@ Check out my projects, micro-projects, skills & certificates.
 
 ---
 
-#### [Hosted Applications](https://huggingface.co/pharaohleft/spaces)
+#### [My Hosted Applications](https://huggingface.co/pharaohleft/spaces)
 
 
   <details>
