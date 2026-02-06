@@ -46,19 +46,19 @@ Check out my projects, micro-projects, skills & certificates.
         <tbody>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Bank-Loan-Health-Analysis/blob/main/README.md"><strong>Bank-Loan-Health-Analysis</strong></a></td>
-            <td>Python (Pandas)</td>
+            <td>SQL, Power BI</td>
           </tr>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Store-Geographical-Growth-Analysis"><strong>Store-Geographical-Growth-Analysis</strong></a></td>
-            <td>Python (Pandas)</td>
+            <td>Python, Power BI</td>
           </tr>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Meta-Marketing-Data-Analysis/blob/main/README.md"><strong>Meta-Marketing-Data-Analysis</strong></a></td>
-            <td>Python (Pandas)</td>
+            <td>Python (Power BI)</td>
           </tr>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md"><strong>Healthcare-ER-Operations-Analysis</strong></a></td>
-            <td>Python (Pandas)</td>
+            <td>Power BI</td>
           </tr>
         </tbody>
       </table>
@@ -75,11 +75,11 @@ Check out my projects, micro-projects, skills & certificates.
         <tbody>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis"><strong>Cost-Efficient-Asset-Replacement-Analysis</strong></a></td>
-            <td>Python</td>
+            <td>Python, K-Means, PCA</td>
           </tr>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis"><strong>Customer-Value-Segmentation-Analysis</strong></a></td>
-            <td>Python</td>
+            <td>Python, RFM, K-means</td>
           </tr>
         </tbody>
       </table>
