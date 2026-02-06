@@ -101,8 +101,8 @@ Check out my projects, micro-projects, skills & certificates.
 <br>
 
 
-## Business Intelligence 
-https://pharaohleft.github.io
+## [Business Intelligence](https://pharaohleft.github.io) 
+
 
 ---
 
@@ -115,7 +115,7 @@ https://pharaohleft.github.io
 | [**Mushroom-Regression-Analysis**](https://github.com/Pharaohleft/Mushroom-Regression-Analysis) | Logistic Regression|
 <br>
 
-#### Hosted Applications - https://huggingface.co/pharaohleft/spaces
+#### [Hosted Applications](https://huggingface.co/pharaohleft/spaces)
 
   <br>
   
