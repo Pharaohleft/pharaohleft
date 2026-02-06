@@ -113,7 +113,7 @@ https://pharaohleft.github.io
 | :--- | :--- |
 | [**Cost-Efficient-Asset-Replacement-using-unsupervised-learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis) | Python, NBA Api, Beautifulsoup, PCA |
 | [**Customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis) | K-Means, RFM|
-
+| [**Mushroon-Regression-Analysis**](https://github.com/Pharaohleft/Mushroom-Regression-Analysis) | Logistic Regression|
 <br>
 
 #### Hosted Applications - https://huggingface.co/pharaohleft/spaces
