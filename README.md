@@ -107,6 +107,13 @@ https://pharaohleft.github.io
 
 ---
 
+## Data Science Projects
+
+| Project Name | Tech Stack |
+| :--- | :--- |
+| [**Cost-Efficient-Asset-Replacement-using-unsupervised-learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis) | Python, NBA Api, Beautifulsoup, PCA |
+| [**Customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis) | K-Means, RFM|
+
 <br>
 
   <details>
