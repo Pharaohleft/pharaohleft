@@ -51,7 +51,7 @@ Check out my projects, micro-projects, skills & certificates.
           </tr>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Meta-Marketing-Data-Analysis/blob/main/README.md"><strong>Meta-Marketing-Data-Analysis</strong></a></td>
-            <td>Python (Power BI)</td>
+            <td>Python, Power BI</td>
           </tr>
           <tr>
             <td><a href="https://github.com/Pharaohleft/Healthcare-ER-Operations-Analysis/blob/main/README.md"><strong>Healthcare-ER-Operations-Analysis</strong></a></td>
@@ -86,7 +86,6 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## Data Engineering
 
-| :--- | :--- |
 | [**Uber-Analytics-Data-Pipeline**](https://github.com/Pharaohleft/uber-analytics-data-pipeline) | GCS, MAGE Ai, Big Query |
 | [**Flight-OPS-Data-Analytics-Platform**](https://github.com/Pharaohleft/Flight-OPS-Data-Analytics-Platform) | Airflow, OpenSky API, Snowflake |
 | [**Real-Time Banking Data Analytics Engineering**](https://github.com/Pharaohleft/Banking-Analytics-ETL) | PostgreSQL, Debezium, Kafka |
@@ -103,7 +102,6 @@ Check out my projects, micro-projects, skills & certificates.
 
 ## Data Science
 
-| :--- | :--- |
 | [**Cost-Efficient-Asset-Replacement-using-unsupervised-learning**](https://github.com/Pharaohleft/Cost-Efficient-Asset-Replacement-Analysis) | Python, NBA Api, Beautifulsoup, PCA |
 | [**Customer-lifetime-value-and-churn-modeling**](https://github.com/Pharaohleft/Customer-Value-Segmentation-Analysis) | K-Means, RFM|
 | [**Mushroom-Regression-Analysis**](https://github.com/Pharaohleft/Mushroom-Regression-Analysis) | Logistic Regression|
