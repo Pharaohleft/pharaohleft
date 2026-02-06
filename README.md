@@ -30,7 +30,7 @@ Check out my projects, micro-projects, skills & certificates.
 
 ---
 
-## Data Analysis
+## [Data Analysis](https://austinabraham.framer.website/) 
 
 <table>
   <tr>
