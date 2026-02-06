@@ -1,8 +1,8 @@
 
 # Hi there! Welcome to my Github Profile! 👋
 
-I am Austin and I am interested in all things data. I am currently working as a Volunteer Data Analyst and located in Chicago, IL. Love the energy of moving to new cities. <br>
-In my free time, I like to read, hike, play basketball, and explore different music genres every morning (In no particular order).
+I am Austin and I am interested in all things data. I am currently working as a Volunteer Data Analyst and located in Chicago, IL.  <br>
+In my free time, I like to read, hike, play basketball, and explore different music genres every morning (In no particular order). Love the energy of moving to new cities.
 <br>
 Check out my projects, micro-projects, skills & certificates.
 
