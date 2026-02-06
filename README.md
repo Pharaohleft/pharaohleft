@@ -83,6 +83,7 @@ Check out my projects, micro-projects, skills & certificates.
 </table>
 
 <br>
+---
 
 ## Data Engineering
 
@@ -96,6 +97,7 @@ Check out my projects, micro-projects, skills & certificates.
 
 <br>
 
+---
 
 ## [Business Intelligence](https://pharaohleft.github.io) 
 
@@ -112,10 +114,13 @@ Check out my projects, micro-projects, skills & certificates.
 | [**Mushroom-Regression-Analysis**](https://github.com/Pharaohleft/Mushroom-Regression-Analysis) | Logistic Regression|
 <br>
 
+---
+
 #### [Hosted Applications](https://huggingface.co/pharaohleft/spaces)
 
   <br>
-  
+---
+
   <details>
   <summary><b> Certificates </b></summary>
   <br> <ul>
